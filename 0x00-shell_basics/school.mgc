@@ -1,0 +1,3 @@
+
+#!/bin/bash
+file -s school.mgc /SCHOOL * 0
